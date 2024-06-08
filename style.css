@@ -91,3 +91,9 @@ body{
     color: var(--color_Grayish_Blue)
    
 }
+
+@media (max-width: 400px) {
+   body{
+   height: 60rem;
+   }
+  }
